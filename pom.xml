@@ -18,6 +18,16 @@
 		<java.version>1.8</java.version>
 	</properties>
 
+	<distributionManagement>
+		<repository>
+			<uniqueVersion>false</uniqueVersion>
+			<id>github</id>
+			<name>GitHub DaniilBessonov Apache Maven Packages</name>
+			<url>https://maven.pkg.github.com/DaniilBessonov/REPOSITORY</url>
+			<layout>default</layout>
+		</repository>
+	</distributionManagement>
+
 	<dependencies>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
