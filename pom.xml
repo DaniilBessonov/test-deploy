@@ -23,7 +23,7 @@
 			<uniqueVersion>false</uniqueVersion>
 			<id>github</id>
 			<name>GitHub DaniilBessonov Apache Maven Packages</name>
-			<url>https://maven.pkg.github.com/DaniilBessonov/REPOSITORY</url>
+			<url>https://maven.pkg.github.com/DaniilBessonov/test-deploy</url>
 			<layout>default</layout>
 		</repository>
 	</distributionManagement>
